@@ -1,7 +1,7 @@
 # MSPI
 
 <p align="center">
-  <img src="assets/mspi-cover.png" alt="MSPI - Ministère de la Sécurité Publique et de l'Immigration" width="620">
+  <img src="mspi-cover.png" alt="MSPI - Ministère de la Sécurité Publique et de l'Immigration" width="620">
 </p>
 
 MSPI is the official digital platform of Chad's Ministry of Public Security and Immigration. It connects citizens to the ministry through a bilingual (French / Arabic) mobile app, a public website, and a back office that lets ministry staff manage everything themselves. The whole thing replaced a paper process where getting an official publication out used to take days - now it's under 10 minutes.
@@ -42,7 +42,7 @@ Supabase handles auth, data and storage so the whole system stays lean - one sou
 ## Screenshots
 
 <p align="center">
-  <img src="assets/mspi-web.png" alt="Institutional website" width="45%">
+  <img src="mspi-web.png" alt="Institutional website" width="45%">
   &nbsp;
-  <img src="assets/mspi-app.png" alt="Mobile app" width="24%">
+  <img src="mspi-app.png" alt="Mobile app" width="24%">
 </p>
